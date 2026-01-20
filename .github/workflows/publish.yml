@@ -43,7 +43,7 @@ jobs:
         run: pnpm install
 
       - name: Build
-        run: pnpm build
+        run: pnpm build && ls -R dist
 
       - name: Release
         env:
