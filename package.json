@@ -1,5 +1,5 @@
 {
-  "name": "@spuentesp/bsale-sdk",
+  "name": "@spuentesp_pkgs/bsale-sdk",
   "version": "0.1.0",
   "description": "Complete TypeScript SDK for Bsale Chile API v1",
   "main": "dist/index.js",
