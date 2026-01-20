@@ -8,7 +8,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "find src -maxdepth 2 && tsc --listFiles",
+    "build": "ls -R src && tsc --showConfig && tsc",
     "typecheck": "tsc --noEmit",
     "lint": "tsc --noEmit",
     "test": "vitest run",
