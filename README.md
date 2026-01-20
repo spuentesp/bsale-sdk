@@ -23,9 +23,11 @@ bun add @stockflow/bsale-sdk
 import { BsaleClient } from '@stockflow/bsale-sdk'
 
 const client = new BsaleClient({
-  accessToken: 'your-access-token',
-  refreshToken: 'your-refresh-token',
-  expiresAt: new Date('2024-12-31'),
+  credentials: {
+    accessToken: 'your-access-token',
+    refreshToken: 'your-refresh-token',
+    expiresAt: new Date('2024-12-31'),
+  },
 })
 
 // Fetch products
