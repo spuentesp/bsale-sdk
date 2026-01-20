@@ -1,6 +1,6 @@
 {
   "name": "@spuentesp_pkgs/bsale-sdk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Complete TypeScript SDK for Bsale Chile API v1",
   "publishConfig": {
     "access": "public"

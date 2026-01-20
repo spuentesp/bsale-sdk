@@ -1,3 +1,14 @@
+## [0.1.3](https://github.com/spuentesp/bsale-sdk/compare/v0.1.2...v0.1.3) (2026-01-20)
+
+
+### Bug Fixes
+
+* debug src existence ([c1bfc20](https://github.com/spuentesp/bsale-sdk/commit/c1bfc205007eb3c43cfc96dc9e76d919df221323))
+* debug tsc output ([34e1616](https://github.com/spuentesp/bsale-sdk/commit/34e16163f196a68aad7af80ada1fa55fd34395a4))
+* docs and build ([0d5c8ec](https://github.com/spuentesp/bsale-sdk/commit/0d5c8ec61e255d9c4b2d63af01b4e3b6d1e8a3b1))
+* ensure dist inclusion ([8e16a99](https://github.com/spuentesp/bsale-sdk/commit/8e16a996cd98417b021696f7f97d03cb30ce2359))
+* explicit debug ([bf63d4f](https://github.com/spuentesp/bsale-sdk/commit/bf63d4fc14c7ed7d49f3874c073bafac32fab1a3))
+
 ## [0.1.2](https://github.com/spuentesp/bsale-sdk/compare/v0.1.1...v0.1.2) (2026-01-20)
 
 
