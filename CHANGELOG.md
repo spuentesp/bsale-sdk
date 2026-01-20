@@ -1,3 +1,11 @@
+## [0.1.2](https://github.com/spuentesp/bsale-sdk/compare/v0.1.1...v0.1.2) (2026-01-20)
+
+
+### Bug Fixes
+
+* ensure public access via publishConfig ([e741714](https://github.com/spuentesp/bsale-sdk/commit/e74171420ea731039821b6c1faab8a05cd1d080b))
+* retry public publish ([e7cf766](https://github.com/spuentesp/bsale-sdk/commit/e7cf7661a275189dedff45232a59e6531ab2045d))
+
 ## [0.1.1](https://github.com/spuentesp/bsale-sdk/compare/v0.1.0...v0.1.1) (2026-01-20)
 
 
