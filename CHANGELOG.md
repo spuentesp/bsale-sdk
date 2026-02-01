@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/spuentesp/bsale-sdk/compare/v0.1.3...v0.1.4) (2026-02-01)
+
+
+### Bug Fixes
+
+* add ESM module type declaration for NodeNext compatibility ([a810e05](https://github.com/spuentesp/bsale-sdk/commit/a810e05480db19768e2e90b0e97c71962d39f23b))
+
 ## [0.1.3](https://github.com/spuentesp/bsale-sdk/compare/v0.1.2...v0.1.3) (2026-01-20)
 
 
